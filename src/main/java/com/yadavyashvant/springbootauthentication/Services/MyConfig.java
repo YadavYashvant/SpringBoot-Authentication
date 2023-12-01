@@ -8,5 +8,6 @@ class MyConfig {
     @Bean
     public userDetailsService userDetailsService() {
 
+        //This will be the service that will be used to get the user details from the database
     }
 }
